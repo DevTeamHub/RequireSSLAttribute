@@ -4,6 +4,7 @@
     <id>DevTeam.RequireSSLAttribute</id>
     <version>0.0.3</version>
     <title>Require SSL Attribute</title>
+    <iconUrl>http://dev-team.com/img/devteam.png</iconUrl>
     <authors>Dev Team Inc.</authors>
     <owners>Dev Team Inc.</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
